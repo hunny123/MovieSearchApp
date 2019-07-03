@@ -3,7 +3,7 @@
 This is a Movie search app created using themoviedb api and react 
 
 # How to start the App
-* [Clone](https://github.com/hunny123/MovieSearchApp.git)
+* [Clone](https://codeload.github.com/hunny123/MovieSearchApp/zip/master)
 * Extract to the folder and then open cmd write following command
 `$ npm install`
 `$ npm start`
