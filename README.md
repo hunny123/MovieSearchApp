@@ -3,8 +3,11 @@
 This is a Movie search app created using themoviedb api and react 
 
 # How to start the App
-npm install
-npm start
+* [Clone](https://github.com/hunny123/MovieSearchApp.git)
+* Extract to the folder and then open cmd write following command
+`$ npm install`
+`$ npm start`
+
 
 # How it work
 The App shows the latest movies of the day.It has search box where one can search with auto suggestion and then show the  details 
